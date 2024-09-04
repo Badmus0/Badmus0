@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Badmus0
-- 👀 I’m interested in Data Science and Data Analytics
+- 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m also a seasoned Technical Writer
-- 🌱 I’m currently learning Data Analytics and Visualization
-- 💞️ I’m looking to collaborate on Data Analytics projects
+- 🌱 I’m currently Learning Data Science and Machine Learning 
+- 💞️ I’m looking to collaborate on DS/ML projects
 - 📫 How to reach me badmulek@gmail.com
 
 <!---
